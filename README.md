@@ -6,3 +6,5 @@ But it's wrong, my GitHub account is [vkgtaro](https://github.com/vkgtaro) and m
 Sorry I was very careless about identity on internet when I started to using twitter or Github :bow:
 
 If you want to contact with me, please ping me via [twitter](https://twitter.com/vkgtaro) :pray: 
+
+See also: https://github.com/deeeet/my-github-account-is-tcnksm
