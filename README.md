@@ -1,5 +1,6 @@
 # My GitHub account is [vkgtaro](https://github.com/vkgtaro)
 [![Build Status](https://travis-ci.org/vkg/taro.svg?branch=master)](https://travis-ci.org/vkg/taro)
+[![vkgtaro](https://img.shields.io/badge/vkg-taro-yellow.svg)](https://twitter.com/vkgtaro)
 
 You may visit here because my twitter account is [vkgtaro](https://twitter.com/vkgtaro). 
 But it's wrong, my GitHub account is [vkgtaro](https://github.com/vkgtaro) and most of my work is there. 
