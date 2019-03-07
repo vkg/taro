@@ -3,14 +3,13 @@ package main
 import (
 	"flag"
 	"fmt"
-	"io"
 	"os"
 	"time"
 )
 
-var out io.Writer = os.Stdout
-
 var (
+	out = os.Stdout
+
 	l = flag.Bool("little", false, "Little")
 )
 
